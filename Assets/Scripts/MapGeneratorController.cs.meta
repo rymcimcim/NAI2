@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c7e6fd458422c314d82697ef06203da6
+timeCreated: 1485463010
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gridPrefab: {fileID: 100644, guid: af896ca91b1841c4d8b4004e4bef065c, type: 2}
+  - camera: {instanceID: 0}
+  - gridSizeInput: {instanceID: 0}
+  - obstacleCountInput: {instanceID: 0}
+  - dialog: {instanceID: 0}
+  - dialogTextField: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
